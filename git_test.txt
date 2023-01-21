@@ -3,3 +3,5 @@ header
 Какой-то текст
 
 update text. END.
+
+Show "git push" command.
